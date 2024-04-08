@@ -91,3 +91,6 @@ Linux/macOS
 ```python
 python3 manage.py runserver
 ```
+
+## Автор:
+[FeodorPyth](https://github.com/FeodorPyth)
